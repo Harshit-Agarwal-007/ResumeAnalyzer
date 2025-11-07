@@ -3,3 +3,4 @@ azure-storage-blob
 azure-ai-formrecognizer
 python-dotenv
 requests
+openai
